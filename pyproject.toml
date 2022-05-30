@@ -6,6 +6,8 @@ authors = ["Yixin Xie <yixin.ethan.xie@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pandas = "^1.4.2"
+feather-format = "^0.4.1"
 
 [tool.poetry.dev-dependencies]
 
